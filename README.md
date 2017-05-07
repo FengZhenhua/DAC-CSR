@@ -12,8 +12,17 @@ If you are using this software, please cite the following publications:
 
 * Zhen-Hua Feng, Josef Kittler, William Christmas, Patrik Huber and Xiao-Jun Wu. Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting, IEEE Conference of Computer Vision and Patten Recognition (CVPR), Honolulu, Hawaii, 2017.
 
-* [ResearchGate] - PDF file
-* []
+* [ResearchGate] - PDF
+
+```sh
+@InProceedings{Feng_2016_CVPR,
+author = {Feng, Zhen-Hua and Kittler, Josef and Christmas, William and Huber, Patrik and Wu, Xiao-Jun},
+title = {Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2017}
+}
+```
 
 ## Installation
 
