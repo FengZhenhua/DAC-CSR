@@ -28,6 +28,13 @@ year = {2017}
 ## Installation
 
 
+## Contact
+
+Dr. Zhenhua Feng
+
+Centre for Vision, Speech and Signal Processing, University of Surrey
+
+z.feng@surrey.ac.uk, fengzhenhua2010@gmail.com
 
  [ResearchGate]: <https://www.researchgate.net/publication/310440905_Dynamic_Attention-controlled_Cascaded_Shape_Regression_Exploiting_Training_Data_Augmentation_and_Fuzzy-set_Sample_Weighting>
 
