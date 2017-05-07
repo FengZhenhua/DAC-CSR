@@ -16,7 +16,7 @@ If you are using this software, please cite the following publications:
 * You can download the paper from my [ResearchGate].
 
 ```sh
-@InProceedings{Feng_2016_CVPR,
+@InProceedings{Feng_2017_CVPR,
 author = {Feng, Zhen-Hua and Kittler, Josef and Christmas, William and Huber, Patrik and Wu, Xiao-Jun},
 title = {Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
