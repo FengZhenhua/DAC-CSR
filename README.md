@@ -4,15 +4,15 @@ Matlab Implementation for Dynamic Attention-Controlled Cascaded Shape Regression
 
 ## news
 
-* 2017-05-07: Add results/*.fig files for the results on the AFLW and COFW datasets. You can open them using Matlab and add your results for comparsion.
+* 2017-05-07: Add results/*.fig files for the results on the AFLW and COFW datasets. You can open them using Matlab and add your results for comparison.
 
 ## Citation
 
 If you are using this software, please cite the following publications:
 
-* Zhen-Hua Feng, Josef Kittler, William Christmas, Patrik Huber and Xiao-Jun Wu. Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting, IEEE Conference of Computer Vision and Patten Recognition (CVPR), Honolulu, Hawaii, 2017.
+* Zhen-Hua Feng, Josef Kittler, William Christmas, Patrik Huber and Xiao-Jun Wu. Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting, IEEE Conference on Computer Vision and Patten Recognition (CVPR), Honolulu, Hawaii, 2017.
 
-* [ResearchGate] - PDF
+* You can download the paper from my [ResearchGate].
 
 ```sh
 @InProceedings{Feng_2016_CVPR,
