@@ -20,8 +20,6 @@ If you use this software, please cite the following publications:
 ```
 
 ## News
-
-* I will squeeze my time to tidy, document and upload the code as soon as possible.
 * 2017-05-07: Add results/*.fig files for the results on the AFLW and COFW datasets. You can open them using Matlab and add your results for comparison.
 
 
