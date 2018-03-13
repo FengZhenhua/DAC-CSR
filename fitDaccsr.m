@@ -1,3 +1,14 @@
+% Demo for DAC-CSR - project the mean shape to a face bbox
+%
+% Copyright @ Zhenhua Feng, fengzhenhua2010@gmail.com
+% Centre for Vision, Speech and Signal Processing, University of Surrey
+%
+% Please cite the following papers if you are using this code
+%
+% Feng, Z. H., Kittler, J., Christmas, W., Huber, P., & Wu, X. J. (2017, July).
+% Dynamic attention-controlled cascaded shape regression exploiting training data augmentation and fuzzy-set sample weighting.
+% In Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on (pp. 3681-3690). IEEE.
+
 function preLmk = fitDaccsr(img, initBbox, csrModel)
 
 % bbox refinement
