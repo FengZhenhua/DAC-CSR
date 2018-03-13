@@ -14,8 +14,7 @@ close all
 clear
 clc
 
-mainAFLWDir = './aflw/data/flickr/';
-
+mainAFLWDir = './aflw/data/flickr/'; % path to the AFLW dataset
 
 verbose = 1; % set this value to 1 to show fitting examples
 run('./vlfeat/toolbox/vl_setup')
@@ -41,6 +40,7 @@ preLmk = zeros(size(gtLmk));
 timeCost = zeros(1, length(testImg));
 for i = 1:length(testImg)
     disp(['Apply DACCSR to the test image id-' num2str(i)]);
+    % convert color images to gray level images
     tmpImgO = imread([mainAFLWDir testImg{i}]);
     if size(tmpImgO,3) == 3
         tmpImg = rgb2gray(tmpImgO);
@@ -48,10 +48,12 @@ for i = 1:length(testImg)
         tmpImg = tmpImgO;
     end
     
+    % perform facial landmark detection using the pre-trained model
     tic;
     preLmk(:,i) = fitDaccsr(tmpImg, testBbox(:,i), cr_model);
     timeCost(i) = toc;
     
+    % display fitting result
     if verbose
         imshow(tmpImgO);
         hold on;
@@ -65,7 +67,7 @@ for i = 1:length(testImg)
     end
 end
 
-% calculate NRMSE and plot CED curve
+% calculate NRMSE
 nrmse = [];
 for i = 1:length(testImg)
     nrmse(i) = 0;
@@ -77,6 +79,7 @@ end
 disp(['Average error AFLW-full: ' num2str(mean(nrmse))]);
 disp(['Speed: ' num2str(1/mean(timeCost)) ' fps']);
 
+% plot CED curve
 figure();
 plot([0 sort(nrmse)], [0, 1:length(nrmse)]/length(nrmse), 'k-', 'linewidth', 2);
 xlim([0 0.1]);
