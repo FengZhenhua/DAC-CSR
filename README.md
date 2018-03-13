@@ -29,7 +29,7 @@ If you use this software, please cite the following publications:
 1. Clone the repository to `/pathtomaindir/` using `git clone`.
 2. Download the AFLW dataset from `https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/` and unpack it to `/pathtomaindir/aflw/data`.
 3. Download the AFLW-FULL protocol data from `http://mmlab.ie.cuhk.edu.hk/projects/compositional/AFLWinfo_release.mat` and put the file under `/pathtomaindir/aflw/`.
-4. Download the latest VLFeat binary distribution frpm `http://www.vlfeat.org/install-matlab.html` and unpack it to `/pathtomaindir/vlfeat/`.
+4. Download the latest VLFeat binary distribution from `http://www.vlfeat.org/install-matlab.html` and unpack it to `/pathtomaindir/vlfeat/`.
 
 ### Run test on AFLW using the pre-trained model 
 
