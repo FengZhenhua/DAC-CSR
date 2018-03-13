@@ -28,9 +28,13 @@ year = {2017}
 ## Installation
 
 ### Download the code and dataset
-1. Clone the repository as well as the submoudules to /pathtomaindir/ using `git clone --recursive'.
-2. Download the AFLW dataset from https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/ and uncompress it to 
+1. Clone the repository as well as the submodules to `/pathtomaindir/' using `git clone --recursive'.
+2. Download the AFLW dataset from https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/ and uncompress it to `/pathtomaindir/aflw/data'.
+3. Download the AFLW-FULL protocol data from `http://mmlab.ie.cuhk.edu.hk/projects/compositional/AFLWinfo_release.mat' and put the file under `/pathtomaindir/aflw/'.
 
+### Run test on AFLW using the pre-trained model 
+
+### The training code is coming soon...
 
 ## Contact
 
