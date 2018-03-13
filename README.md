@@ -27,6 +27,10 @@ year = {2017}
 
 ## Installation
 
+### Download the code and dataset
+1. Clone the repository as well as the submoudules to /pathtomaindir/
+2. Download the AFLW dataset from https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/ and uncompress it to 
+
 
 ## Contact
 
