@@ -20,6 +20,7 @@ If you use this software, please cite the following publications:
 ```
 
 ## News
+* 2018-03-13: Add Test code for AFLW as well as a pre-trained DAC-CSR model. The training code is coming soon.
 * 2017-05-07: Add results/*.fig files for the results on the AFLW and COFW datasets. You can open them using Matlab and add your results for comparison.
 
 
@@ -32,6 +33,7 @@ If you use this software, please cite the following publications:
 4. Download the latest VLFeat binary distribution from `http://www.vlfeat.org/install-matlab.html` and unpack it to `/pathtomaindir/vlfeat/`.
 
 ### Run test on AFLW using the pre-trained model 
+5. Run the `runTestAFLW.m` script for the test on AFLW using the AFLW-Full protocol.
 
 ### The training code is coming soon...
 
