@@ -47,8 +47,11 @@ DAC-CSR is released under the [Apache 2.0 license](https://github.com/FengZhenhu
 ## Contact
 
 Dr Zhenhua Feng
+
 Centre for Vision, Speech and Signal Processing
+
 University of Surrey, Guildford GU2 7XH, United Kingdom
+
 z.feng@surrey.ac.uk, fengzhenhua2010@gmail.com
 
 
