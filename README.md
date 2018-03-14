@@ -1,5 +1,10 @@
 # DAC-CSR: Dynamic Attention-Controlled Cascaded Shape Regression for Facial Landmark Localisation
 
+<div align="center">
+  <img src="results/examples.jpg" width="700px" />
+  <p>Landmark localisation examples output by DAC-CSR.</p>
+</div>
+
 If you use this software, please cite the following publication:
 
 * Zhen-Hua Feng, Josef Kittler, William Christmas, Patrik Huber and Xiao-Jun Wu. Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting, IEEE Conference on Computer Vision and Patten Recognition (CVPR), Honolulu, Hawaii, 2017.
