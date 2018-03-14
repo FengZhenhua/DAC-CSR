@@ -1,5 +1,7 @@
 # DAC-CSR: Dynamic Attention-Controlled Cascaded Shape Regression for Facial Landmark Localisation
 
+DAC-CSR is a software developed by Zhenhua Feng from the Centre for Vision, Speech and Signal Processing ([CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing)), University of Surrey. The software is implemented by Matlab and powered by the VLFeat toolbox.
+
 <div align="center">
   <img src="results/examples.jpg" width="600px" />
   <p>Landmark localisation examples (AFLW) output by DAC-CSR.</p>
