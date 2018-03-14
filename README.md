@@ -21,7 +21,7 @@ If you use this software, please cite the following publication:
 }
 ```
 
-* You can download the paper from my [ResearchGate].
+* You can download the paper from my [ResearchGate](https://www.researchgate.net/publication/310440905_Dynamic_Attention-controlled_Cascaded_Shape_Regression_Exploiting_Training_Data_Augmentation_and_Fuzzy-set_Sample_Weighting).
 
 ## News
 * 2018-03-13: Add Test code for AFLW as well as a pre-trained DAC-CSR model. The training code is coming soon.
@@ -46,12 +46,9 @@ DAC-CSR is released under the [Apache 2.0 license](https://github.com/FengZhenhu
 
 ## Contact
 
-Dr. Zhenhua Feng
-
-Centre for Vision, Speech and Signal Processing, University of Surrey
-
+Dr Zhenhua Feng
+Centre for Vision, Speech and Signal Processing
+University of Surrey, Guildford GU2 7XH, United Kingdom
 z.feng@surrey.ac.uk, fengzhenhua2010@gmail.com
-
- [ResearchGate]: <https://www.researchgate.net/publication/310440905_Dynamic_Attention-controlled_Cascaded_Shape_Regression_Exploiting_Training_Data_Augmentation_and_Fuzzy-set_Sample_Weighting>
 
 
