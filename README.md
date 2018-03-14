@@ -1,8 +1,8 @@
 # DAC-CSR: Dynamic Attention-Controlled Cascaded Shape Regression for Facial Landmark Localisation
 
 <div align="center">
-  <img src="results/examples.jpg" width="700px" />
-  <p>Landmark localisation examples output by DAC-CSR.</p>
+  <img src="results/examples.jpg" width="600px" />
+  <p>Landmark localisation examples (AFLW) output by DAC-CSR.</p>
 </div>
 
 If you use this software, please cite the following publication:
