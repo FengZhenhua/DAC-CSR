@@ -1,13 +1,8 @@
-# DAC-CSR 
+# DAC-CSR: Dynamic Attention-Controlled Cascaded Shape Regression for Facial Landmark Localisation
 
-Matlab Implementation for Dynamic Attention-Controlled Cascaded Shape Regression (DAC-CSR)
-
-If you use this software, please cite the following publications:
+If you use this software, please cite the following publication:
 
 * Zhen-Hua Feng, Josef Kittler, William Christmas, Patrik Huber and Xiao-Jun Wu. Dynamic Attention-controlled Cascaded Shape Regression Exploiting Training Data Augmentation and Fuzzy-set Sample Weighting, IEEE Conference on Computer Vision and Patten Recognition (CVPR), Honolulu, Hawaii, 2017.
-
-* You can download the paper from my [ResearchGate].
-
 ```sh
 @inproceedings{feng2017dynamic,
   title={Dynamic attention-controlled cascaded shape regression exploiting training data augmentation and fuzzy-set sample weighting},
@@ -18,6 +13,8 @@ If you use this software, please cite the following publications:
   organization={IEEE}
 }
 ```
+
+* You can download the paper from my [ResearchGate].
 
 ## News
 * 2018-03-13: Add Test code for AFLW as well as a pre-trained DAC-CSR model. The training code is coming soon.
