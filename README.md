@@ -27,11 +27,14 @@ If you use this software, please cite the following publication:
 * 2018-03-13: Add Test code for AFLW as well as a pre-trained DAC-CSR model. The training code is coming soon.
 * 2017-05-07: Add results/*.fig files for the results on the AFLW and COFW datasets. You can open them using Matlab and add your results for comparison.
 
+## License
+
+DAC-CSR is released under the [Apache 2.0 license](https://github.com/FengZhenhua/DAC-CSR/blob/master/license).
 
 ## Installation
 
 ### Download the code and dataset
-1. Clone the repository to `/pathtomaindir/` using `git clone`.
+1. Clone the repository to `/pathtomaindir/` using `git clone git@github.com:FengZhenhua/DAC-CSR.git`.
 2. Download the AFLW dataset from `https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/` and unpack it to `/pathtomaindir/aflw/data`.
 3. Download the AFLW-FULL protocol data from `http://mmlab.ie.cuhk.edu.hk/projects/compositional/AFLWinfo_release.mat` and put the file under `/pathtomaindir/aflw/`.
 4. Download the latest VLFeat binary distribution from `http://www.vlfeat.org/install-matlab.html` and unpack it to `/pathtomaindir/vlfeat/`.
